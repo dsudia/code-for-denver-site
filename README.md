@@ -2,6 +2,9 @@
 
 # [Code for Denver Website](http://www.codefordenver.org/)
 
+## Documenting
+This branch is for updating the github wiki.
+
 ## Developing
 
 ### Dependencies
